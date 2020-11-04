@@ -4,8 +4,7 @@ Examine how workload, GPA, gender, social media usage correlate with Emory stude
 # I. Introduction and Motivation
 Sleep is very important for people. People need sleep to restore energy and stay healthy. It is important for people to follow their circadian clock and get enough sleep, or they will easily get tired and ill. After getting good sleep, a person will not only feel healthy, but also have a positive mood and better concentration when working or studying (UGA Health Center). However, as technology develops, there are more and more distractions. It becomes hard for people to get good sleep every night.
 
-![fg1](/fg1.png)
-Format: ![Alt Text](url)
+![alt text](https://github.com/Serena-Fang/sleeping/blob/main/fg1.png?raw=true)
 
 College students are notoriously deprived of sleep with bad sleeping habits. Every time I complete the midnight-due homework and leave library, I see lots of students still struggling with their academic assignments. An article indicates that “An average adult needs between 7.5 and 8 hours of sleep per night.” (Gina Shaw, 2010) However, I think most students around me sleep less than standard. Sleep seems to become a luxury that college students can not afford. Moreover, as students go into college, they have more choices of life and have to balance their study, sleep and other activities. As social media occupies a big part of people’s life, it’s harder for college students to get enough sleep.
 
