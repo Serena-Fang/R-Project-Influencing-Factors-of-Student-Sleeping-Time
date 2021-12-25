@@ -1,4 +1,4 @@
-# sleeping
+# QTM 151 Stats Computing Final Project
 Examine how workload, GPA, gender, social media usage correlate with Emory students' sleeping time. 
 
 # I. Introduction and Motivation
